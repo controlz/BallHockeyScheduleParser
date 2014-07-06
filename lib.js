@@ -95,7 +95,7 @@ exports.get_all_games = function (data) {
 }
 
 exports.get_team_schedule = function (team) {
-	console.log(team);
+
 	if (!team || team == '' || typeof team == 'undefined') {
 		return false;
 	}
