@@ -216,283 +216,333 @@
         "VisitorPts": "6"
     },
     {
+        "Date": "2014-06-12",
+        "Start": "07:30 PM",
+        "Facility": "Indoor",
+        "Home": "Jaft",
+        "HomePts": "",
+        "Visitor": "Kardiac Kids",
+        "VisitorPts": ""
+    },
+    {
+        "Date": "2014-06-12",
+        "Start": "Notes:",
+        "Facility": "To Be Rescheduled"
+    },
+    {
         "Date": "2014-06-17",
         "Start": "06:30 PM",
         "Facility": "Indoor",
         "Home": "Vendetta",
-        "HomePts": "6",
+        "HomePts": "",
         "Visitor": "Toros",
-        "VisitorPts": "8"
+        "VisitorPts": ""
     },
     {
         "Date": "2014-06-17",
         "Start": "06:30 PM",
         "Facility": "Open",
         "Home": "Wolverines",
-        "HomePts": "3",
+        "HomePts": "",
         "Visitor": "Dynamo",
-        "VisitorPts": "4"
+        "VisitorPts": ""
     },
     {
         "Date": "2014-06-17",
         "Start": "07:30 PM",
         "Facility": "Indoor",
         "Home": "Stingers",
-        "HomePts": "3",
+        "HomePts": "",
         "Visitor": "Drunken Masters",
-        "VisitorPts": "1"
+        "VisitorPts": ""
+    },
+    {
+        "Date": "2014-06-17",
+        "Start": "07:30 PM",
+        "Facility": "Open",
+        "Home": "Legion",
+        "HomePts": "",
+        "Visitor": "Ghengis Kahns Revenge",
+        "VisitorPts": ""
     },
     {
         "Date": "2014-06-18",
         "Start": "07:30 PM",
         "Facility": "Open",
         "Home": "Stick Magnets",
-        "HomePts": "2",
+        "HomePts": "",
         "Visitor": "Ketchups",
-        "VisitorPts": "9"
+        "VisitorPts": ""
     },
     {
         "Date": "2014-06-19",
         "Start": "06:30 PM",
         "Facility": "Indoor",
         "Home": "Kardiac Kids",
-        "HomePts": "5",
+        "HomePts": "",
         "Visitor": "Bottom Feeders",
-        "VisitorPts": "0"
+        "VisitorPts": ""
     },
     {
         "Date": "2014-06-19",
         "Start": "08:30 PM",
         "Facility": "Indoor",
         "Home": "Ghengis Kahns Revenge",
-        "HomePts": "1",
+        "HomePts": "",
         "Visitor": "Dynamo",
-        "VisitorPts": "7"
+        "VisitorPts": ""
+    },
+    {
+        "Date": "2014-06-19",
+        "Start": "08:30 PM",
+        "Facility": "Open",
+        "Home": "Mighty Ducks",
+        "HomePts": "",
+        "Visitor": "Cheap Suits",
+        "VisitorPts": ""
     },
     {
         "Date": "2014-06-19",
         "Start": "09:30 PM",
         "Facility": "Open",
         "Home": "Death From Above",
-        "HomePts": "1",
+        "HomePts": "",
         "Visitor": "Jaft",
-        "VisitorPts": "5"
+        "VisitorPts": ""
     },
     {
         "Date": "2014-06-19",
         "Start": "10:30 PM",
         "Facility": "Indoor",
         "Home": "District 5 Ducks",
-        "HomePts": "4",
+        "HomePts": "",
         "Visitor": "Blueline Bandits",
-        "VisitorPts": "7"
+        "VisitorPts": ""
     },
     {
         "Date": "2014-06-20",
         "Start": "06:30 PM",
         "Facility": "Indoor",
         "Home": "Box Cutters",
-        "HomePts": "5",
+        "HomePts": "",
         "Visitor": "The Dougs",
-        "VisitorPts": "4"
+        "VisitorPts": ""
     },
     {
         "Date": "2014-06-20",
         "Start": "10:30 PM",
         "Facility": "Indoor",
         "Home": "Stick Magnets",
-        "HomePts": "0",
+        "HomePts": "",
         "Visitor": "Blueline Bandits",
-        "VisitorPts": "5"
+        "VisitorPts": ""
     },
     {
         "Date": "2014-06-21",
         "Start": "09:00 PM",
         "Facility": "Open",
         "Home": "Box Cutters",
-        "HomePts": "6",
+        "HomePts": "",
         "Visitor": "Stingers",
-        "VisitorPts": "4"
+        "VisitorPts": ""
     },
     {
         "Date": "2014-06-22",
         "Start": "02:00 PM",
         "Facility": "Indoor",
         "Home": "Legion",
-        "HomePts": "3",
+        "HomePts": "",
         "Visitor": "Kardiac Kids",
-        "VisitorPts": "5"
+        "VisitorPts": ""
     },
     {
         "Date": "2014-06-22",
         "Start": "02:00 PM",
         "Facility": "Open",
         "Home": "Ghengis Kahns Revenge",
-        "HomePts": "6",
+        "HomePts": "",
         "Visitor": "Stick Magnets",
-        "VisitorPts": "10"
+        "VisitorPts": ""
     },
     {
         "Date": "2014-06-22",
         "Start": "04:00 PM",
         "Facility": "Open",
         "Home": "Bottom Feeders",
-        "HomePts": "3",
+        "HomePts": "",
         "Visitor": "Rink Ratz",
-        "VisitorPts": "0"
+        "VisitorPts": ""
     },
     {
         "Date": "2014-06-22",
         "Start": "05:00 PM",
         "Facility": "Indoor",
         "Home": "Vendetta",
-        "HomePts": "4",
+        "HomePts": "",
         "Visitor": "Cheap Suits",
-        "VisitorPts": "0"
+        "VisitorPts": ""
     },
     {
         "Date": "2014-06-22",
         "Start": "06:00 PM",
         "Facility": "Open",
         "Home": "Mighty Ducks",
-        "HomePts": "10",
+        "HomePts": "",
         "Visitor": "Toros",
-        "VisitorPts": "5"
+        "VisitorPts": ""
+    },
+    {
+        "Date": "2014-06-24",
+        "Start": "07:30 PM",
+        "Facility": "Open",
+        "Home": "Ketchups",
+        "HomePts": "",
+        "Visitor": "Bottom Feeders",
+        "VisitorPts": ""
     },
     {
         "Date": "2014-06-24",
         "Start": "08:30 PM",
-        "Facility": "Indoor",
+        "Facility": "Open",
         "Home": "Death From Above",
-        "HomePts": "7",
+        "HomePts": "",
         "Visitor": "Legion",
-        "VisitorPts": "6"
+        "VisitorPts": ""
     },
     {
         "Date": "2014-06-24",
         "Start": "09:30 PM",
         "Facility": "Indoor",
         "Home": "Jaft",
-        "HomePts": "2",
+        "HomePts": "",
         "Visitor": "Vendetta",
-        "VisitorPts": "2"
+        "VisitorPts": ""
     },
     {
         "Date": "2014-06-24",
         "Start": "09:30 PM",
         "Facility": "Open",
         "Home": "The Dougs",
-        "HomePts": "6",
+        "HomePts": "",
         "Visitor": "District 5 Ducks",
-        "VisitorPts": "7"
+        "VisitorPts": ""
     },
     {
         "Date": "2014-06-25",
         "Start": "06:30 PM",
         "Facility": "Open",
         "Home": "Ketchups",
-        "HomePts": "8",
+        "HomePts": "",
         "Visitor": "Box Cutters",
-        "VisitorPts": "0"
+        "VisitorPts": ""
     },
     {
         "Date": "2014-06-25",
         "Start": "10:30 PM",
         "Facility": "Indoor",
         "Home": "Rink Ratz",
-        "HomePts": "1",
+        "HomePts": "",
         "Visitor": "Blueline Bandits",
-        "VisitorPts": "8"
+        "VisitorPts": ""
     },
     {
         "Date": "2014-06-26",
         "Start": "06:30 PM",
         "Facility": "Indoor",
         "Home": "Vendetta",
-        "HomePts": "3",
+        "HomePts": "",
         "Visitor": "The Dougs",
-        "VisitorPts": "2"
+        "VisitorPts": ""
     },
     {
         "Date": "2014-06-26",
         "Start": "09:30 PM",
         "Facility": "Indoor",
         "Home": "Ghengis Kahns Revenge",
-        "HomePts": "0",
+        "HomePts": "",
         "Visitor": "District 5 Ducks",
-        "VisitorPts": "5"
+        "VisitorPts": ""
     },
     {
         "Date": "2014-06-26",
         "Start": "09:30 PM",
         "Facility": "Open",
         "Home": "Dynamo",
-        "HomePts": "3",
+        "HomePts": "",
         "Visitor": "Kardiac Kids",
-        "VisitorPts": "0"
+        "VisitorPts": ""
     },
     {
         "Date": "2014-06-27",
-        "Start": "08:30 PM",
+        "Start": "10:30 PM",
         "Facility": "Indoor",
         "Home": "Blueline Bandits",
-        "HomePts": "6",
+        "HomePts": "",
         "Visitor": "Box Cutters",
-        "VisitorPts": "1"
+        "VisitorPts": ""
     },
     {
         "Date": "2014-06-28",
         "Start": "04:00 PM",
         "Facility": "Indoor",
         "Home": "Ketchups",
-        "HomePts": "8",
+        "HomePts": "",
         "Visitor": "Wolverines",
-        "VisitorPts": "0"
+        "VisitorPts": ""
     },
     {
         "Date": "2014-06-28",
         "Start": "04:00 PM",
         "Facility": "Open",
         "Home": "Drunken Masters",
-        "HomePts": "2",
+        "HomePts": "",
         "Visitor": "Death From Above",
-        "VisitorPts": "4"
+        "VisitorPts": ""
+    },
+    {
+        "Date": "2014-06-28",
+        "Start": "09:00 PM",
+        "Facility": "Indoor",
+        "Home": "Box Cutters",
+        "HomePts": "",
+        "Visitor": "Jaft",
+        "VisitorPts": ""
     },
     {
         "Date": "2014-06-29",
         "Start": "11:00 AM",
         "Facility": "Indoor",
         "Home": "Legion",
-        "HomePts": "6",
+        "HomePts": "",
         "Visitor": "Rink Ratz",
-        "VisitorPts": "4"
+        "VisitorPts": ""
     },
     {
         "Date": "2014-06-29",
         "Start": "03:00 PM",
         "Facility": "Open",
         "Home": "Vendetta",
-        "HomePts": "12",
+        "HomePts": "",
         "Visitor": "Stingers",
-        "VisitorPts": "2"
+        "VisitorPts": ""
     },
     {
         "Date": "2014-06-29",
         "Start": "07:00 PM",
         "Facility": "Indoor",
         "Home": "Box Cutters",
-        "HomePts": "5",
+        "HomePts": "",
         "Visitor": "Mighty Ducks",
-        "VisitorPts": "3"
+        "VisitorPts": ""
     },
     {
         "Date": "2014-07-03",
         "Start": "06:30 PM",
         "Facility": "Indoor",
         "Home": "Stingers",
-        "HomePts": "7",
+        "HomePts": "",
         "Visitor": "Cheap Suits",
-        "VisitorPts": "8"
+        "VisitorPts": ""
     },
     {
         "Date": "2014-07-03",
@@ -508,36 +558,45 @@
         "Start": "07:30 PM",
         "Facility": "Indoor",
         "Home": "Toros",
-        "HomePts": "5",
+        "HomePts": "",
         "Visitor": "Dynamo",
-        "VisitorPts": "8"
+        "VisitorPts": ""
     },
     {
         "Date": "2014-07-03",
         "Start": "08:30 PM",
         "Facility": "Indoor",
         "Home": "The Dougs",
-        "HomePts": "1",
+        "HomePts": "",
         "Visitor": "Death From Above",
-        "VisitorPts": "6"
+        "VisitorPts": ""
     },
     {
         "Date": "2014-07-03",
         "Start": "09:30 PM",
         "Facility": "Open",
         "Home": "Drunken Masters",
-        "HomePts": "2",
+        "HomePts": "",
         "Visitor": "District 5 Ducks",
-        "VisitorPts": "3"
+        "VisitorPts": ""
     },
     {
         "Date": "2014-07-03",
         "Start": "10:30 PM",
         "Facility": "Indoor",
         "Home": "Blueline Bandits",
-        "HomePts": "5",
+        "HomePts": "",
         "Visitor": "Ghengis Kahns Revenge",
-        "VisitorPts": "2"
+        "VisitorPts": ""
+    },
+    {
+        "Date": "2014-07-05",
+        "Start": "04:00 PM",
+        "Facility": "Indoor",
+        "Home": "Ketchups",
+        "HomePts": "",
+        "Visitor": "The Dougs",
+        "VisitorPts": ""
     },
     {
         "Date": "2014-07-05",
@@ -551,7 +610,7 @@
     {
         "Date": "2014-07-05",
         "Start": "09:00 PM",
-        "Facility": "Indoor",
+        "Facility": "Open",
         "Home": "District 5 Ducks",
         "HomePts": "",
         "Visitor": "Rink Ratz",
@@ -577,7 +636,7 @@
     },
     {
         "Date": "2014-07-06",
-        "Start": "10:00 PM",
+        "Start": "04:00 PM",
         "Facility": "Open",
         "Home": "Rink Ratz",
         "HomePts": "",
@@ -591,6 +650,15 @@
         "Home": "Box Cutters",
         "HomePts": "",
         "Visitor": "Toros",
+        "VisitorPts": ""
+    },
+    {
+        "Date": "2014-07-07",
+        "Start": "07:30 PM",
+        "Facility": "Indoor",
+        "Home": "Bottom Feeders",
+        "HomePts": "",
+        "Visitor": "Vendetta",
         "VisitorPts": ""
     },
     {
@@ -774,20 +842,6 @@
         "VisitorPts": ""
     },
     {
-        "Date": "2014-07-19",
-        "Start": "09:00 PM",
-        "Facility": "Indoor",
-        "Home": "Ketchups",
-        "HomePts": "",
-        "Visitor": "The Dougs",
-        "VisitorPts": ""
-    },
-    {
-        "Date": "2014-07-19",
-        "Start": "Notes:",
-        "Facility": "Rescheduled from July 5"
-    },
-    {
         "Date": "2014-07-20",
         "Start": "11:00 AM",
         "Facility": "Indoor",
@@ -822,20 +876,6 @@
         "HomePts": "",
         "Visitor": "Bottom Feeders",
         "VisitorPts": ""
-    },
-    {
-        "Date": "2014-07-20",
-        "Start": "10:00 PM",
-        "Facility": "Indoor",
-        "Home": "Mighty Ducks",
-        "HomePts": "",
-        "Visitor": "Cheap Suits",
-        "VisitorPts": ""
-    },
-    {
-        "Date": "2014-07-20",
-        "Start": "Notes:",
-        "Facility": "Rescheduled from June 19"
     },
     {
         "Date": "2014-07-21",
@@ -892,20 +932,6 @@
         "VisitorPts": ""
     },
     {
-        "Date": "2014-07-22",
-        "Start": "10:30 PM",
-        "Facility": "Indoor",
-        "Home": "Legion",
-        "HomePts": "",
-        "Visitor": "Ghengis Kahns Revenge",
-        "VisitorPts": ""
-    },
-    {
-        "Date": "2014-07-22",
-        "Start": "Notes:",
-        "Facility": "Rescheduled from June 17"
-    },
-    {
         "Date": "2014-07-24",
         "Start": "06:30 PM",
         "Facility": "Indoor",
@@ -943,40 +969,12 @@
     },
     {
         "Date": "2014-07-24",
-        "Start": "09:30 PM",
-        "Facility": "Open",
-        "Home": "Jaft",
-        "HomePts": "",
-        "Visitor": "Kardiac Kids",
-        "VisitorPts": ""
-    },
-    {
-        "Date": "2014-07-24",
-        "Start": "Notes:",
-        "Facility": "Rescheduled from June 12"
-    },
-    {
-        "Date": "2014-07-24",
         "Start": "10:30 PM",
         "Facility": "Indoor",
         "Home": "Kardiac Kids",
         "HomePts": "",
         "Visitor": "Blueline Bandits",
         "VisitorPts": ""
-    },
-    {
-        "Date": "2014-07-25",
-        "Start": "06:30 PM",
-        "Facility": "Open",
-        "Home": "Ketchups",
-        "HomePts": "",
-        "Visitor": "Bottom Feeders",
-        "VisitorPts": ""
-    },
-    {
-        "Date": "2014-07-25",
-        "Start": "Notes:",
-        "Facility": "Rescheduled from June 24"
     },
     {
         "Date": "2014-07-25",
@@ -1024,20 +1022,6 @@
         "VisitorPts": ""
     },
     {
-        "Date": "2014-07-26",
-        "Start": "09:00 PM",
-        "Facility": "Open",
-        "Home": "Box Cutters",
-        "HomePts": "",
-        "Visitor": "Jaft",
-        "VisitorPts": ""
-    },
-    {
-        "Date": "2014-07-26",
-        "Start": "Notes:",
-        "Facility": "Rescheduled from June 28"
-    },
-    {
         "Date": "2014-07-27",
         "Start": "01:00 PM",
         "Facility": "Indoor",
@@ -1045,20 +1029,6 @@
         "HomePts": "",
         "Visitor": "Legion",
         "VisitorPts": ""
-    },
-    {
-        "Date": "2014-07-27",
-        "Start": "02:00 PM",
-        "Facility": "Open",
-        "Home": "Bottom Feeders",
-        "HomePts": "",
-        "Visitor": "Vendetta",
-        "VisitorPts": ""
-    },
-    {
-        "Date": "2014-07-27",
-        "Start": "Notes:",
-        "Facility": "Rescheduled from July 7"
     },
     {
         "Date": "2014-07-27",
