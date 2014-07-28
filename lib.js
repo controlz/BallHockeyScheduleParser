@@ -5,7 +5,7 @@ var cheerio = require('cheerio')
 var games = [];
 var headers = [];
 
-exports.get_all_games = function (data) {
+exports.get_all_games = function (data, callback) {
 	// we are good to parse schedule
 	var $ = cheerio.load(data)
 		,title = $('.ReportTitle1').text()
@@ -88,6 +88,7 @@ exports.get_all_games = function (data) {
 			console.log('Error writing to file');
 		} else {
 			console.log('Full Schedule Written to file!');
+			callback();
 		}
 	});
 
@@ -103,8 +104,10 @@ exports.get_team_schedule = function (team) {
 	var solo_games = [];
 
 	for (var i in games) {
-		if (games[i]['Home'] == team.trim() || games[i]['Visitor'] == team.trim()) {
-			solo_games.push(games[i]);
+		if (games[i]['Home'] && games[i]['Visitor']) {
+			if (games[i]['Home'].toLowerCase() == team.toLowerCase().trim() || games[i]['Visitor'].toLowerCase() == team.toLowerCase().trim()) {
+				solo_games.push(games[i]);
+			}	
 		}
 	}
 
