@@ -25,6 +25,10 @@ if (argv['o']) {
 	output = argv['o'];
 }
 
+if (argv['l']) {
+	league_id = argv['l'];
+}
+
 if (production == false) {
 	// staging - read from file
 	fs.readFile("samples/schedule.htm", 'utf8', function(err, data) {	
@@ -44,7 +48,7 @@ if (production == false) {
 	});
 } else {
 	// production
-	var url = 'http://www.ballhockey-canada.com/ballhockey/maxsolutions/niagara/schedules/LSch_Mens_1102.htm';
+	var url = 'http://www.ballhockey-canada.com/ballhockey/maxsolutions/niagara/schedules/LSch_Mens_' + league_id + '.htm';
 	request(url, function(error, response, html) {
 		if (!error && response.statusCode == 200) {
 			games = lib.get_all_games(html, function() {

@@ -2,8 +2,9 @@
 Command line utility for scraping schedule from URL to store data as JSON.
 
 ### Options
--p Run in Production
--t Set Team
--o Output file
 
-If team = '' then get all teams
+* -p true|false //Run in Production
+* -t 'Team Name' //Sets Team Name
+* -l 'Leage ID' //Set league ID
+
+If team (t) = '' then get all teams
