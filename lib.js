@@ -8,8 +8,8 @@ var headers = [];
 exports.get_all_games = function (data, callback) {
 	// we are good to parse schedule
 	var $ = cheerio.load(data)
-		,title = $('.ReportTitle1').text()
-		,table = $('table.TableBody2')
+		,title = $('body > table td h1').text()
+		,table = $('table[rules="COLS"]')
 		,finalJSON = {};
 
 
@@ -82,7 +82,7 @@ exports.get_all_games = function (data, callback) {
 		}
 	});
 
-
+/*
 	fs.writeFile("data/full_schedule.json", JSON.stringify(games, null, 4), function(err) {
 		if (err) {
 			console.log('Error writing to file');
@@ -91,6 +91,8 @@ exports.get_all_games = function (data, callback) {
 			callback();
 		}
 	});
+*/
+	callback();
 
 	return games;
 }
@@ -111,7 +113,7 @@ exports.get_team_schedule = function (team) {
 		}
 	}
 
-	fs.writeFile("data/team_schedule_" + team.toLowerCase() + ".json", JSON.stringify(solo_games, null, 4), function(err) {
+	fs.writeFile("data/team_schedule_" + team.toLowerCase().replace(' ', '_') + ".json", JSON.stringify(solo_games, null, 4), function(err) {
 		if (err) {
 			console.log('Error writing to team file');
 		} else {
