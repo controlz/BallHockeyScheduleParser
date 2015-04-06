@@ -14,9 +14,9 @@ If team (t) = '' then get all teams
 ### Usage
 
 ```
-node bin.js -p true -t 'Vendetta' -l 1143
+node bin.js -p true -t 'Vendetta' -l 1260
 
-node bin.js -p true -t 'Weekend Warriors' -l 1142
+node bin.js -p true -t 'Weekend Warriors' -l 1259
 ```
 
 This will produce two files: `team_schedule_vendetta.json` and `team_schedule_weekend_warriors.json`.
